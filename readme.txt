@@ -1,2 +1,4 @@
-new a readme.txt, then use git add £¬then git commit
+1111111111
+2222222222
+3333333333
  
